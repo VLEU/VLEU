@@ -1,8 +1,5 @@
 <h3 align="center">DevOps, IT Support and anything else.</h3>
-
-- 📫 How to reach me **E-mail address in my resume.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">All my work is internal and cannot be shared. Sorry.</h3>
 <p align="left">
 </p>
 
