@@ -1,4 +1,4 @@
-<h3 align="center">DevOps, IT Support and everything else.</h3>
+<h3 align="center">IT Ops, Infra, IT Support and everything else.</h3>
 <h3 align="left">All my work is internal and cannot be shared. Sorry.</h3>
 <p align="left">
 </p>
